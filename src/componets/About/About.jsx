@@ -16,7 +16,7 @@ export const About = () => {
                     <img src={getImageUrl("about/icon3.png")} alt="applelogo" />
                     <div className={styles.aboutItemText}>
                         <h3> Software Engineering </h3>
-                        <p>I'm a Georgia Tech CS student who ships real products. At WillowTree, I worked on VAConnects for Kids, tuning .NET/PostgreSQL services and improving reliability.</p>
+                        <p>I'm a Georgia Tech CS student who ships real products. At WillowTree, I worked on consolidating three legacy platforms into one unified system, tuning .NET/PostgreSQL services and improving reliability.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem} id="about">
