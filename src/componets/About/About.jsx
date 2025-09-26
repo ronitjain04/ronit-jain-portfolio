@@ -13,24 +13,24 @@ export const About = () => {
             className={styles.aboutImg}/>
             <ul className={styles.aboutItems}>
                 <li className={styles.aboutItem}>
-                    <img src={getImageUrl("about/icon1.png")} alt="applelogo" />
+                    <img src={getImageUrl("about/icon3.png")} alt="applelogo" />
                     <div className={styles.aboutItemText}>
-                        <h3> iOS App Developer</h3>
-                        <p>I have experience with iOS development through a club at my school where gained hands-on experience as I designed and built several iOS applications.</p>
+                        <h3> Software Engineering </h3>
+                        <p>I'm a Georgia Tech CS student who ships real products. At WillowTree, I worked on VAConnects for Kids, tuning .NET/PostgreSQL services and improving reliability.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem} id="about">
-                    <img src={getImageUrl("about/icon2.png")} alt="stack" />
+                    <img src={getImageUrl("about/icon1.png")} alt="stack" />
                     <div className={styles.aboutItemText}>
-                        <h3>Fullstack Developer</h3>
-                        <p>Aspiring to be a fullstack developer, I have experience with iOS apps and hope to work on web applications with more in-depth frontends and backends.</p>
+                        <h3> Fullstack Developer </h3>
+                        <p>Comfortable across React/TypeScript frontends and API/database layers, CI, and testing. I like owning features end-to-end and turning specs into clean, maintainable code.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
-                    <img src={getImageUrl("about/icon1.png")} alt="applelogo" />
+                    <img src={getImageUrl("about/icon2.png")} alt="applelogo" />
                     <div className={styles.aboutItemText}>
-                        <h3> Artificial Intelligence</h3>
-                        <p>I am pursuing a concentration in Artificial Intelligence and hope to put my knowledge and skills to work helping innovate and create new projects.</p>
+                        <h3> Artificial Intelligence </h3>
+                        <p>Pursuing the AI concentration at Georgia Tech. Built projects like a fantasy football predictor using Python, scikit-learn/PyTorch, with an emphasis on solid evaluation.</p>
                     </div>
                 </li>
             </ul>
