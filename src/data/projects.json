@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Clother",
+      "imageSrc": "projects/clother.png",
+      "description": "A sorting app for clothing and outfits along with generating outfits for the user",
+      "skills": ["Swift", "SwiftUI", "Firebase"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Portfolio Website",
+      "imageSrc": "projects/portfolio.png",
+      "description": "Created a custom portfolio to show projects, experience, and contanct info",
+      "skills": ["Javascript", "React", "HTML", "CSS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

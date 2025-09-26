@@ -1,0 +1,18 @@
+[
+    {
+      "role": "iOS App Developer",
+      "organisation": "iOS Club",
+      "startDate": "Jan 2024",
+      "endDate": "Present",
+      "experiences": ["Created new iOS apps", "Pushed apps to the app store"],
+      "imageSrc": "experience/iosclub.png"
+    },
+    {
+      "role": "Shift Lead",
+      "organisation": "Lowes Foods",
+      "startDate": "Mar, 2021",
+      "endDate": "Apr, 2023",
+      "experiences": ["Led a team of employees", "Assisted customers when needed"],
+      "imageSrc": "experience/lowesfoods.png"
+    }
+  ]
