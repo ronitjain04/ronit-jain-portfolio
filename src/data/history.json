@@ -1,18 +1,26 @@
 [
     {
-      "role": "iOS App Developer",
+      "role": "Software Engineer Intern",
+      "organisation": "TELUS Digital",
+      "startDate": "May, 2025",
+      "endDate": "Aug, 2025",
+      "experiences": ["Unified platforms serving multitudes seamlessly.", "Accelerated APIs via optimized LINQ."],
+      "imageSrc": "experience/telus.jpg"
+    },
+    {
+      "role": "Senior iOS Developer",
       "organisation": "iOS Club",
       "startDate": "Jan 2024",
       "endDate": "Present",
-      "experiences": ["Created new iOS apps", "Pushed apps to the app store"],
+      "experiences": ["Championing user-centric Swift product innovation", "Elevated iOS performance and acclaim."],
       "imageSrc": "experience/iosclub.png"
     },
     {
-      "role": "Shift Lead",
-      "organisation": "Lowes Foods",
-      "startDate": "Mar, 2021",
-      "endDate": "Apr, 2023",
-      "experiences": ["Led a team of employees", "Assisted customers when needed"],
-      "imageSrc": "experience/lowesfoods.png"
+      "role": "Teaching Assistant",
+      "organisation": "Georgia Institute of Technology",
+      "startDate": "Jan 2025",
+      "endDate": "Present",
+      "experiences": ["Tailored instruction on assembly essentials", "Refined autograders for precise assessments"],
+      "imageSrc": "experience/gt.png"
     }
   ]

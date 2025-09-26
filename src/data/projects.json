@@ -1,18 +1,26 @@
 [
     {
-      "title": "Clother",
-      "imageSrc": "projects/clother.png",
-      "description": "A sorting app for clothing and outfits along with generating outfits for the user",
-      "skills": ["Swift", "SwiftUI", "Firebase"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+        "title": "ARchitect",
+        "imageSrc": "projects/architect.jpg",
+        "description": "Directed a 20-member team to launch an AR social app on iOS and visionOS with Firebase-backed backend.",
+        "skills": ["Swift", "SwiftUI", "RealityKit", "Firebase"],
+        "demo": "",
+        "source": "https://github.com/gtiosclub/ARchitect"
     },
     {
-      "title": "Portfolio Website",
-      "imageSrc": "projects/portfolio.png",
-      "description": "Created a custom portfolio to show projects, experience, and contanct info",
-      "skills": ["Javascript", "React", "HTML", "CSS"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+        "title": "Clother",
+        "imageSrc": "projects/clother.png",
+        "description": "Led the end-to-end build of Clother, an iOS app that streamlines wardrobe uploads and outfit generation, earning Best Bootcamp Project honors.",
+        "skills": ["Swift", "SwiftUI", "Figma"],
+        "demo": "",
+        "source": "https://github.com/azooz2003-bit/ClotherApp"
+    },
+    {
+        "title": "Fantasy Football ML Predictor",
+        "imageSrc": "projects/fantasy-football.jpg",
+        "description": "Constructed a Python ETL and modeling pipeline that predicts fantasy football performance with 97% accuracy and supports a draft optimizer.",
+        "skills": ["Python", "Pandas", "scikit-learn", "XGBoost"],
+        "demo": "",
+        "source": ""
     }
-  ]
+]
