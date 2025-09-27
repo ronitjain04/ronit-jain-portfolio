@@ -5,7 +5,7 @@ import { getImageUrl } from "../../utils";
 
 export const About = () => {
     return <section className={styles.container}>
-        <h2 className={styles.title}>About</h2>
+        <h2 className={styles.title}>About Me</h2>
         <div className={styles.content}>
             <img 
             src={getImageUrl("about/profile.png")} 
@@ -13,24 +13,21 @@ export const About = () => {
             className={styles.aboutImg}/>
             <ul className={styles.aboutItems}>
                 <li className={styles.aboutItem}>
-                    <img src={getImageUrl("about/icon3.png")} alt="applelogo" />
                     <div className={styles.aboutItemText}>
-                        <h3> Software Engineering </h3>
-                        <p>I'm a Georgia Tech CS student who ships real products. At WillowTree, I worked on consolidating three legacy platforms into one unified system, tuning .NET/PostgreSQL services and improving reliability.</p>
+                        <h3></h3>
+                        <p>Hi, I'm Ronit 👋 — a Computer Science student at Georgia Tech with a love for building things that make life simpler and smarter. Whether it's consolidating platforms at WillowTree to support hundreds of thousands of students, leading teams at the iOS Club to design award-winning apps, or teaching classmates how computers really work as a TA, I'm happiest when I'm solving problems that matter.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem} id="about">
-                    <img src={getImageUrl("about/icon1.png")} alt="stack" />
                     <div className={styles.aboutItemText}>
-                        <h3> Fullstack Developer </h3>
-                        <p>Comfortable across React/TypeScript frontends and API/database layers, CI, and testing. I like owning features end-to-end and turning specs into clean, maintainable code.</p>
+                        <h3>Work Experience</h3>
+                        <p>I've built projects ranging from a Fantasy Football ML Predictor with 97% accuracy to ARchitect, an AR social app for iOS and visionOS. For me, the fun is in turning complex challenges into clean, efficient solutions — and learning something new with every build.</p>
                     </div>
                 </li>
                 <li className={styles.aboutItem}>
-                    <img src={getImageUrl("about/icon2.png")} alt="applelogo" />
                     <div className={styles.aboutItemText}>
-                        <h3> Artificial Intelligence </h3>
-                        <p>Pursuing the AI concentration at Georgia Tech. Built projects like a fantasy football predictor using Python, scikit-learn/PyTorch, with an emphasis on solid evaluation.</p>
+                        <h3> Interests </h3>
+                        <p>Outside of coding, you'll probably find me brainstorming app ideas, exploring new tech, or diving into sports stats. My goal is simple: keep growing as an engineer while creating technology that's impactful, scalable, and fun to use.</p>
                     </div>
                 </li>
             </ul>

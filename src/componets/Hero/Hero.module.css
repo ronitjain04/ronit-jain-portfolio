@@ -41,6 +41,22 @@
     text-align: center;
 }
 
+.subtitle {
+    font-size: 32px;
+    font-family: var(--font-roboto);
+    margin-bottom: 24px;
+    text-align: center;
+    letter-spacing: 0.5px;
+}
+
+.highlight {
+    font-size: 32px;
+    font-weight: 700;
+    font-family: var(--font-roboto);
+    margin-bottom: 40px;
+    text-align: center;
+}
+
 .contactBtn {
     text-decoration: none;
     background-color: var(--color-primary);
