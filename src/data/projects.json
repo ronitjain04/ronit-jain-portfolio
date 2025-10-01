@@ -3,7 +3,12 @@
         "title": "ARchitect",
         "imageSrc": "projects/architect.jpg",
         "description": "Directed a 20-member team to launch an AR social app on iOS and visionOS with Firebase-backed backend.",
-        "skills": ["Swift", "SwiftUI", "RealityKit", "Firebase"],
+        "skills": [
+            "Swift",
+            "SwiftUI",
+            "RealityKit",
+            "Firebase"
+        ],
         "demo": "",
         "source": "https://github.com/gtiosclub/ARchitect"
     },
@@ -11,16 +16,48 @@
         "title": "Clother",
         "imageSrc": "projects/clother.png",
         "description": "Led the end-to-end build of Clother, an iOS app that streamlines wardrobe uploads and outfit generation, earning Best Bootcamp Project honors.",
-        "skills": ["Swift", "SwiftUI", "Figma"],
+        "skills": [
+            "Swift",
+            "SwiftUI",
+            "Figma"
+        ],
         "demo": "",
         "source": "https://github.com/azooz2003-bit/ClotherApp"
     },
     {
-        "title": "Fantasy Football ML Predictor",
+        "title": "NFL Player Output Predictor",
         "imageSrc": "projects/fantasy-football.jpg",
         "description": "Constructed a Python ETL and modeling pipeline that predicts fantasy football performance with 97% accuracy and supports a draft optimizer.",
-        "skills": ["Python", "Pandas", "scikit-learn", "XGBoost"],
+        "skills": [
+            "Python",
+            "Pandas",
+            "scikit-learn",
+            "XGBoost"
+        ],
         "demo": "",
         "source": ""
+    },
+    {
+        "title": "Respiratory Disease ML Classifier",
+        "imageSrc": "projects/lung.png",
+        "description": "Built a multimodal Kaggle workflow that preprocesses audio, embedding, and demographic data with schema harmonization, augmentation, and PCA insights for clinicians.",
+        "skills": [
+            "PyTorch",
+            "scikit-learn",
+            "Librosa"
+        ],
+        "demo": "",
+        "source": ""
+    },
+    {
+        "title": "Download Sorter",
+        "imageSrc": "projects/folder.png",
+        "description": "Built a python script to scrap through downloaded files and map key names to specific folders on the device",
+        "skills": [
+            "Python",
+            "Watchdog"
+        ],
+        "demo": "",
+        "source": "https://github.com/ronitjain04/download_sorter"
     }
 ]
